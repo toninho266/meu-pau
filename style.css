@@ -14,13 +14,9 @@ header{
     --cinza-secundario: #C0C0C0;
     --botao-ciano: #2ab19f;
     --cor-de-fundo:#0a0a0a;
+}
 
-
-
-
-    }
-
-    body{
+    <body>{
         background-color: var(--cor-de-fundo)
 
 
