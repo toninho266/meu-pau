@@ -5,8 +5,14 @@ header{
     justfy content;
     }
 
-    img{
+    .img{
+        position: absolute;
+        width: 1194px;
+        height: 633px;
+        left: 123px;
+        top: 215px; 
         
+        background;  url()
     }
 
 :root{
