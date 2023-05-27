@@ -4,6 +4,9 @@ header{
     display: flex
     justfy content;
     }
+    img{
+        width: 100;
+    }
 
     .img{
         position: absolute;
@@ -12,7 +15,7 @@ header{
         left: 123px;
         top: 215px; 
         
-        background;  url()
+        background;  url(whatsapp-image-2022-09-14-at-09.22.55.jpeg)
     }
 
 :root{
