@@ -14,7 +14,7 @@ header{
         width: 1194px;
         height: 633px;
         left: 123px;
-        top: 215px; 
+        top: 215px;
         
         background;  url(whatsapp-image-2022-09-14-at-09.22.55.jpeg)
     }
@@ -30,4 +30,26 @@ header{
         background-color: var(--cor-de-fundo)
 
 
+    }
+    .cabecalho {
+        background-color: #424E61;
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+    }
+    .cabecalho-lista-item{
+        display: inline-block;
+        margin: 0 16px;
+        font-size: 24px;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .cabecalho-lista-item{
+    
+        margin: 0 16px;
+        font-size: 24px;
     }
