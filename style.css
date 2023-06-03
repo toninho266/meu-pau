@@ -28,8 +28,11 @@ header{
 
     <body>{
         background-color: var(--cor-de-fundo)
-
-
+        color:var(branco pricipal)
+    }
+    {
+        margin 0;
+        pading 0;
     }
     .cabecalho {
         background-color: #424E61;
@@ -53,3 +56,4 @@ header{
         margin: 0 16px;
         font-size: 24px;
     }
+
