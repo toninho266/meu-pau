@@ -2,22 +2,7 @@ header{
      rgb(243, 243, 243);
     color: #000000;
     display: flex
-    justfy content;
-    }
-    img{
-        width: 100;
-    }
-
-    .img{
-        position: center;
-        padding: 0%;
-        width: 1194px;
-        height: 633px;
-        left: 123px;
-        top: 215px;
-        
-        background;  url(whatsapp-image-2022-09-14-at-09.22.55.jpeg)
-    }
+    justfy content;}
 
 :root{
     --branco-pricipal:#FFFF;
