@@ -56,4 +56,11 @@ header{
         margin: 0 16px;
         font-size: 24px;
     }
-
+        body{
+            background-color:  var(--cor-de-fundo)
+            color: var(--branco-principal);
+        }  
+    *{
+        margin: 0%;
+        padding: 0%;
+    }
