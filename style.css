@@ -19,6 +19,7 @@ header{
         margin 0;
         pading 0;
     }
+
     .cabecalho {
         background-color: #424E61;
         color: white;
@@ -46,6 +47,6 @@ header{
             color: var(--branco-principal);
         }  
     *{
-        margin: 0%;
-        padding: 0%;
+     margin: 0%;
+     padding: 0%;
     }
